@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 [![Fulvio's GitHub stats](https://github-readme-stats.vercel.app/api?username=play-station&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/play-station/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=play-station)](https://github.com/play-station/github-readme-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=play-station&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
