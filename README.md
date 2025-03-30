@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=play-station&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
+![](https://raw.githubusercontent.com/play-station/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/play-station/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 
