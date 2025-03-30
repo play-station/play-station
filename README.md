@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Fulvio's GitHub stats](https://github-readme-stats.vercel.app/api?username=play-station)](https://github.com/play-station/github-readme-stats)
+[![Fulvio's GitHub stats](https://github-readme-stats.vercel.app/api?username=play-station&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/play-station/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=play-station)](https://github.com/play-station/github-readme-stats)
